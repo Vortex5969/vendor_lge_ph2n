@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<policies version="1">
+    <policy
+        name="test.com.lge.cic.eden.intent.action.ACTION_START_ANALYSIS"
+        package="test.com.lge.cic.eden.service"
+        state="1"
+        defaultsetting="0"
+    />
+</policies>
+

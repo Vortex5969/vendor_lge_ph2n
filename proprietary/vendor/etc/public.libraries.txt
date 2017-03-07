@@ -1,0 +1,12 @@
+# For All Devices <- vendor/lge/system/core/rootdir/etc/public.libraries.lg.txt
+# Device <- 
+# Product <- 
+# Vendor(QCT/MTK) <- vendor/qcom/proprietary/common/config/public.libraries.txt
+libOpenCL.so
+libqti_performance.so
+libqti-perfd-client.so
+#LGE SENSOR
+libsensor_reg.so
+libsensor_test.so
+libsensor_thresh.so
+libsensor_user_cal.so
